@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DeepGoyani/Leet-Code/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DeepGoyani/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DeepGoyani/Leet-Code/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
