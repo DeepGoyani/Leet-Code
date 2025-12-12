@@ -1,11 +1,19 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        int n =nums.size();
-        k=k%n;
+        int n = nums.size();
+        k = k % n;               
+        vector<int> temp(n);       
+        for (int i = 0; i < n; i++) {
+            int newIndex = i + k; 
 
-        reverse(nums.begin(),nums.end());
-        reverse(nums.begin(),nums.begin()+k);
-        reverse(nums.begin()+k,nums.end());
+            if (newIndex >= n) {   
+                newIndex = newIndex - n;
+            }
+
+            temp[newIndex] = nums[i];
+        }
+
+        nums = temp;  
     }
 };
