@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DeepGoyani/Leet-Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepGoyani/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/DeepGoyani/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepGoyani/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/DeepGoyani/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DeepGoyani/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DeepGoyani/Leet-Code/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -155,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
