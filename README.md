@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,8 +192,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
