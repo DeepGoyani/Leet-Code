@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0001-two-sum) |
+| [0001-two-sum2](https://github.com/DeepGoyani/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/DeepGoyani/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0015-3sum) |
