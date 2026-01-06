@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DeepGoyani/Leet-Code/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DeepGoyani/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepGoyani/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +92,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepGoyani/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DeepGoyani/Leet-Code/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -225,4 +227,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
