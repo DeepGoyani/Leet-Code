@@ -34,6 +34,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepGoyani/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/DeepGoyani/Leet-Code/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepGoyani/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DeepGoyani/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -102,6 +103,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/DeepGoyani/Leet-Code/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepGoyani/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
 | ------- |
