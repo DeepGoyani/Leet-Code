@@ -33,6 +33,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepGoyani/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/DeepGoyani/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0875-koko-eating-bananas](https://github.com/DeepGoyani/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepGoyani/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DeepGoyani/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -255,4 +256,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/DeepGoyani/Leet-Code/tree/master/0175-combine-two-tables) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/DeepGoyani/Leet-Code/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
