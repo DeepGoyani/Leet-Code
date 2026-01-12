@@ -74,6 +74,7 @@
 | [0014-longest-common-prefix](https://github.com/DeepGoyani/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DeepGoyani/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DeepGoyani/Leet-Code/tree/master/0058-length-of-last-word) |
+| [1768-merge-strings-alternately](https://github.com/DeepGoyani/Leet-Code/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0189-rotate-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DeepGoyani/Leet-Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/DeepGoyani/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
