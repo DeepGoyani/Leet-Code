@@ -37,6 +37,7 @@
 | [0605-can-place-flowers](https://github.com/DeepGoyani/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepGoyani/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/DeepGoyani/Leet-Code/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/DeepGoyani/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/DeepGoyani/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepGoyani/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DeepGoyani/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DeepGoyani/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/DeepGoyani/Leet-Code/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/DeepGoyani/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 ## Heap (Priority Queue)
 |  |
