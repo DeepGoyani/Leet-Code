@@ -279,6 +279,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/DeepGoyani/Leet-Code/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/DeepGoyani/Leet-Code/tree/master/0177-nth-highest-salary) |
 ## Greedy
 |  |
 | ------- |
