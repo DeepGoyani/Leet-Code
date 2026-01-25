@@ -42,6 +42,7 @@
 | [0875-koko-eating-bananas](https://github.com/DeepGoyani/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/DeepGoyani/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepGoyani/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1389-create-target-array-in-the-given-order](https://github.com/DeepGoyani/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DeepGoyani/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/DeepGoyani/Leet-Code/tree/master/1732-find-the-highest-altitude) |
@@ -274,6 +275,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/DeepGoyani/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
