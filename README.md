@@ -55,6 +55,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/DeepGoyani/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/DeepGoyani/Leet-Code/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
 | ------- |
