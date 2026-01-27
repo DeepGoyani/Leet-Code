@@ -47,6 +47,7 @@
 | [1470-shuffle-the-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/DeepGoyani/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DeepGoyani/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeepGoyani/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -133,6 +134,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/DeepGoyani/Leet-Code/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -247,6 +249,7 @@
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/DeepGoyani/Leet-Code/tree/master/0645-set-mismatch) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeepGoyani/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepGoyani/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting
@@ -315,6 +318,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/DeepGoyani/Leet-Code/tree/master/0605-can-place-flowers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepGoyani/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Queue
 |  |
