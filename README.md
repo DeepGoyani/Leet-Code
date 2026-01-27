@@ -55,6 +55,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/DeepGoyani/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/DeepGoyani/Leet-Code/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepGoyani/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
