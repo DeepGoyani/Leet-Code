@@ -50,6 +50,7 @@
 | [1732-find-the-highest-altitude](https://github.com/DeepGoyani/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DeepGoyani/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1920-build-array-from-permutation](https://github.com/DeepGoyani/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeepGoyani/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -318,6 +319,7 @@
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/DeepGoyani/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/DeepGoyani/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
