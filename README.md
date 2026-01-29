@@ -206,6 +206,7 @@
 | [0020-valid-parentheses](https://github.com/DeepGoyani/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepGoyani/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/DeepGoyani/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -313,6 +314,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/DeepGoyani/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0384-shuffle-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0384-shuffle-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -358,6 +360,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/DeepGoyani/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
