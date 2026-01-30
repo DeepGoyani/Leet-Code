@@ -107,6 +107,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3099-harshad-number](https://github.com/DeepGoyani/Leet-Code/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepGoyani/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
