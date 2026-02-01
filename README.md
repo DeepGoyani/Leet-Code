@@ -70,6 +70,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/DeepGoyani/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/DeepGoyani/Leet-Code/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -310,6 +311,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepGoyani/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
 | ------- |
@@ -418,4 +420,8 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0384-shuffle-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
