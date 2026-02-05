@@ -74,6 +74,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
+| [2670-find-the-distinct-difference-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2670-find-the-distinct-difference-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -108,6 +109,7 @@
 | [2032-two-out-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
+| [2670-find-the-distinct-difference-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2670-find-the-distinct-difference-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Math
 |  |
