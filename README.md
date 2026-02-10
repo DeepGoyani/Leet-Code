@@ -55,6 +55,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0997-find-the-town-judge](https://github.com/DeepGoyani/Leet-Code/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepGoyani/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -134,6 +135,7 @@
 | [0384-shuffle-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0384-shuffle-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2485-find-the-pivot-integer](https://github.com/DeepGoyani/Leet-Code/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/DeepGoyani/Leet-Code/tree/master/2652-sum-multiples) |
@@ -459,4 +461,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
