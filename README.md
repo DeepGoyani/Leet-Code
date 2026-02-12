@@ -120,6 +120,7 @@
 | [2670-find-the-distinct-difference-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2670-find-the-distinct-difference-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
 |  |
 | ------- |
@@ -353,6 +355,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/DeepGoyani/Leet-Code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DeepGoyani/Leet-Code/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeepGoyani/Leet-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3713-longest-balanced-substring-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -464,6 +467,7 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
 ## Geometry
 |  |
 | ------- |
