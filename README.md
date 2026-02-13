@@ -138,6 +138,7 @@
 | [0066-plus-one](https://github.com/DeepGoyani/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DeepGoyani/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0384-shuffle-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0384-shuffle-an-array) |
@@ -162,6 +163,7 @@
 | [0020-valid-parentheses](https://github.com/DeepGoyani/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DeepGoyani/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
