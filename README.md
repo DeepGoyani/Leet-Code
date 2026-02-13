@@ -63,6 +63,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DeepGoyani/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeepGoyani/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DeepGoyani/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/DeepGoyani/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/DeepGoyani/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DeepGoyani/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -345,6 +346,7 @@
 | [0881-boats-to-save-people](https://github.com/DeepGoyani/Leet-Code/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/DeepGoyani/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DeepGoyani/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DeepGoyani/Leet-Code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeepGoyani/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
