@@ -85,6 +85,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeepGoyani/Leet-Code/tree/master/3074-apple-redistribution-into-boxes) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/DeepGoyani/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
@@ -123,6 +124,7 @@
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
 | [2670-find-the-distinct-difference-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2670-find-the-distinct-difference-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeepGoyani/Leet-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3663-find-the-least-frequent-digit](https://github.com/DeepGoyani/Leet-Code/tree/master/3663-find-the-least-frequent-digit) |
@@ -334,6 +336,7 @@
 | [0645-set-mismatch](https://github.com/DeepGoyani/Leet-Code/tree/master/0645-set-mismatch) |
 | [2032-two-out-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Sorting
 |  |
