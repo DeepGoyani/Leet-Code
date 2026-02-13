@@ -123,6 +123,7 @@
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3663-find-the-least-frequent-digit](https://github.com/DeepGoyani/Leet-Code/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3714-longest-balanced-substring-ii) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3714-longest-balanced-substring-ii) |
 ## Trie
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | [0724-find-pivot-index](https://github.com/DeepGoyani/Leet-Code/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/DeepGoyani/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/DeepGoyani/Leet-Code/tree/master/2485-find-the-pivot-integer) |
+| [3714-longest-balanced-substring-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3714-longest-balanced-substring-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
