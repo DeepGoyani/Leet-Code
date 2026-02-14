@@ -177,6 +177,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/DeepGoyani/Leet-Code/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
@@ -510,4 +511,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
