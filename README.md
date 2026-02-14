@@ -65,6 +65,7 @@
 | [1470-shuffle-the-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeepGoyani/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DeepGoyani/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1528-shuffle-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/DeepGoyani/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/DeepGoyani/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DeepGoyani/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -180,6 +181,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/DeepGoyani/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
+| [1528-shuffle-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1528-shuffle-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DeepGoyani/Leet-Code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/DeepGoyani/Leet-Code/tree/master/1678-goal-parser-interpretation) |
