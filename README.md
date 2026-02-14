@@ -145,6 +145,7 @@
 | [0012-integer-to-roman](https://github.com/DeepGoyani/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepGoyani/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DeepGoyani/Leet-Code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DeepGoyani/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DeepGoyani/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0171-excel-sheet-column-number) |
@@ -174,6 +175,7 @@
 | [0014-longest-common-prefix](https://github.com/DeepGoyani/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DeepGoyani/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DeepGoyani/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DeepGoyani/Leet-Code/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -343,6 +345,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeepGoyani/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
@@ -437,6 +440,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeepGoyani/Leet-Code/tree/master/0067-add-binary) |
 | [1389-create-target-array-in-the-given-order](https://github.com/DeepGoyani/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/DeepGoyani/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1929-concatenation-of-array) |
