@@ -169,6 +169,7 @@
 | [2413-smallest-even-multiple](https://github.com/DeepGoyani/Leet-Code/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/DeepGoyani/Leet-Code/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/DeepGoyani/Leet-Code/tree/master/2485-find-the-pivot-integer) |
+| [2544-alternating-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/DeepGoyani/Leet-Code/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/DeepGoyani/Leet-Code/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/DeepGoyani/Leet-Code/tree/master/3099-harshad-number) |
