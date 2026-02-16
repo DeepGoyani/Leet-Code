@@ -57,6 +57,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/DeepGoyani/Leet-Code/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepGoyani/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -123,6 +124,7 @@
 | [0904-fruit-into-baskets](https://github.com/DeepGoyani/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/DeepGoyani/Leet-Code/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -205,6 +207,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/DeepGoyani/Leet-Code/tree/master/1108-defanging-an-ip-address) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1528-shuffle-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -417,6 +420,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DeepGoyani/Leet-Code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DeepGoyani/Leet-Code/tree/master/1704-determine-if-string-halves-are-alike) |
