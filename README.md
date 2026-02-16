@@ -84,6 +84,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/DeepGoyani/Leet-Code/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
+| [2553-separate-the-digits-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2670-find-the-distinct-difference-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -473,6 +474,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3701-compute-alternating-sum) |
 ## Sliding Window
