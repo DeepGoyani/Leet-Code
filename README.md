@@ -172,6 +172,7 @@
 | [2485-find-the-pivot-integer](https://github.com/DeepGoyani/Leet-Code/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/DeepGoyani/Leet-Code/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/DeepGoyani/Leet-Code/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/DeepGoyani/Leet-Code/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/DeepGoyani/Leet-Code/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/DeepGoyani/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
