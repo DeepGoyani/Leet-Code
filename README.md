@@ -106,6 +106,7 @@
 | [3683-earliest-time-to-finish-one-task](https://github.com/DeepGoyani/Leet-Code/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DeepGoyani/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/DeepGoyani/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DeepGoyani/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/DeepGoyani/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -423,6 +425,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DeepGoyani/Leet-Code/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/DeepGoyani/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
