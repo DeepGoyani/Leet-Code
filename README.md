@@ -176,6 +176,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/DeepGoyani/Leet-Code/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/DeepGoyani/Leet-Code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/DeepGoyani/Leet-Code/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DeepGoyani/Leet-Code/tree/master/2119-a-number-after-a-double-reversal) |
@@ -229,6 +230,7 @@
 | [1678-goal-parser-interpretation](https://github.com/DeepGoyani/Leet-Code/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DeepGoyani/Leet-Code/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/DeepGoyani/Leet-Code/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/DeepGoyani/Leet-Code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DeepGoyani/Leet-Code/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeepGoyani/Leet-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
