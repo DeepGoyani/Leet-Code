@@ -185,6 +185,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepGoyani/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/DeepGoyani/Leet-Code/tree/master/3663-find-the-least-frequent-digit) |
+| [3783-mirror-distance-of-an-integer](https://github.com/DeepGoyani/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
