@@ -233,6 +233,7 @@
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/DeepGoyani/Leet-Code/tree/master/3271-hash-divided-string) |
 | [3340-check-balanced-string](https://github.com/DeepGoyani/Leet-Code/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeepGoyani/Leet-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
@@ -493,6 +494,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/DeepGoyani/Leet-Code/tree/master/3271-hash-divided-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3701-compute-alternating-sum) |
 ## Sliding Window
 |  |
