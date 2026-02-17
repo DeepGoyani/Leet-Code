@@ -231,6 +231,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DeepGoyani/Leet-Code/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeepGoyani/Leet-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/DeepGoyani/Leet-Code/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
