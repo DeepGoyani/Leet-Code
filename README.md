@@ -117,6 +117,7 @@
 | [0141-linked-list-cycle](https://github.com/DeepGoyani/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/DeepGoyani/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0454-4sum-ii) |
@@ -203,6 +204,7 @@
 | [0067-add-binary](https://github.com/DeepGoyani/Leet-Code/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0171-excel-sheet-column-number) |
+| [0299-bulls-and-cows](https://github.com/DeepGoyani/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
@@ -430,6 +432,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/DeepGoyani/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/0884-uncommon-words-from-two-sentences) |
