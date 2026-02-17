@@ -100,6 +100,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeepGoyani/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/DeepGoyani/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DeepGoyani/Leet-Code/tree/master/3634-minimum-removals-to-balance-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/DeepGoyani/Leet-Code/tree/master/3663-find-the-least-frequent-digit) |
@@ -144,6 +145,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeepGoyani/Leet-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/DeepGoyani/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3663-find-the-least-frequent-digit](https://github.com/DeepGoyani/Leet-Code/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
@@ -188,6 +190,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeepGoyani/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/DeepGoyani/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepGoyani/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/DeepGoyani/Leet-Code/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/DeepGoyani/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
@@ -444,6 +447,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/DeepGoyani/Leet-Code/tree/master/2404-most-frequent-even-element) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeepGoyani/Leet-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/DeepGoyani/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/DeepGoyani/Leet-Code/tree/master/3663-find-the-least-frequent-digit) |
 | [3713-longest-balanced-substring-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
 ## Monotonic Stack
@@ -547,6 +551,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/DeepGoyani/Leet-Code/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/DeepGoyani/Leet-Code/tree/master/2413-smallest-even-multiple) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/DeepGoyani/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepGoyani/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Graph Theory
 |  |
