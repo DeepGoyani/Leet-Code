@@ -174,6 +174,7 @@
 | [0263-ugly-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/0326-power-of-three) |
 | [0384-shuffle-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0507-perfect-number) |
@@ -393,6 +394,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DeepGoyani/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
