@@ -253,6 +253,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
+| [2937-make-three-strings-equal](https://github.com/DeepGoyani/Leet-Code/tree/master/2937-make-three-strings-equal) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/DeepGoyani/Leet-Code/tree/master/3271-hash-divided-string) |
 | [3340-check-balanced-string](https://github.com/DeepGoyani/Leet-Code/tree/master/3340-check-balanced-string) |
