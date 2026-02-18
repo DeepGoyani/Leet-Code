@@ -405,6 +405,7 @@
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/DeepGoyani/Leet-Code/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/DeepGoyani/Leet-Code/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeepGoyani/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-two-out-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
