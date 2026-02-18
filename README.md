@@ -170,6 +170,7 @@
 | [0070-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0384-shuffle-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/0415-add-strings) |
