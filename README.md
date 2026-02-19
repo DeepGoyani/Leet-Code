@@ -102,6 +102,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/DeepGoyani/Leet-Code/tree/master/3074-apple-redistribution-into-boxes) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/DeepGoyani/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DeepGoyani/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/DeepGoyani/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -208,6 +209,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/DeepGoyani/Leet-Code/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/DeepGoyani/Leet-Code/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/DeepGoyani/Leet-Code/tree/master/3099-harshad-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DeepGoyani/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/DeepGoyani/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeepGoyani/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
