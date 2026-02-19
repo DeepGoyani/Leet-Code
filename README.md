@@ -82,6 +82,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepGoyani/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -143,6 +144,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DeepGoyani/Leet-Code/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeepGoyani/Leet-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2032-two-out-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/2032-two-out-of-three) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/DeepGoyani/Leet-Code/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
@@ -557,6 +559,7 @@
 | [0074-search-a-2d-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/DeepGoyani/Leet-Code/tree/master/1672-richest-customer-wealth) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/DeepGoyani/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Database
 |  |
