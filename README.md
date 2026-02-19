@@ -229,6 +229,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/DeepGoyani/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0796-rotate-string) |
