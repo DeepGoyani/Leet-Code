@@ -143,6 +143,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeepGoyani/Leet-Code/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2032-two-out-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/DeepGoyani/Leet-Code/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/DeepGoyani/Leet-Code/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
@@ -252,6 +253,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/DeepGoyani/Leet-Code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2278-percentage-of-letter-in-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2278-percentage-of-letter-in-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/DeepGoyani/Leet-Code/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
 | [2937-make-three-strings-equal](https://github.com/DeepGoyani/Leet-Code/tree/master/2937-make-three-strings-equal) |
@@ -607,6 +609,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/DeepGoyani/Leet-Code/tree/master/1952-three-divisors) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/DeepGoyani/Leet-Code/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
 ## Geometry
