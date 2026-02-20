@@ -9,16 +9,16 @@ public:
             int mid = low + (high - low) / 2;
             long long hours = 0;
 
-            // Calculate total hours needed if speed = mid
+            
             for (int p : piles) {
-                hours += (p + mid - 1) / mid; // efficient ceil(p / mid)
+                hours += (p + mid - 1) / mid; 
             }
 
             if (hours <= h) {
-                ans = mid;       // possible answer
-                high = mid - 1;  // try smaller speed
+                ans = mid;      
+                high = mid - 1;  
             } else {
-                low = mid + 1;   // need more speed
+                low = mid + 1; 
             }
         }
 
