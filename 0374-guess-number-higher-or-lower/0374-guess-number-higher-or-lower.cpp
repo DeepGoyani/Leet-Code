@@ -4,7 +4,7 @@ public:
         int low = 1, high = n;
 
         while (low <= high) {
-            int mid = low + (high - low) / 2; // avoids overflow
+            int mid = low + (high - low) / 2; 
             int res = guess(mid);
 
             if (res == 0)
@@ -14,6 +14,6 @@ public:
             else
                 low = mid + 1;
         }
-        return -1; // never reached
+        return -1;
     }
 };
