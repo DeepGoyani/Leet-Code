@@ -239,6 +239,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/DeepGoyani/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/DeepGoyani/Leet-Code/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -425,6 +426,7 @@
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0761-special-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -455,6 +457,7 @@
 | [0561-array-partition](https://github.com/DeepGoyani/Leet-Code/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/DeepGoyani/Leet-Code/tree/master/0645-set-mismatch) |
+| [0761-special-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/DeepGoyani/Leet-Code/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/DeepGoyani/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
