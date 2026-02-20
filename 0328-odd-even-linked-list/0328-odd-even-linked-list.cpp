@@ -8,14 +8,14 @@ public:
         ListNode* evenHead = even;
 
         while (even && even->next) {
-            odd->next = even->next;   // link odd to next odd
-            odd = odd->next;          // move odd pointer
+            odd->next = even->next;   
+            odd = odd->next;          
 
-            even->next = odd->next;   // link even to next even
-            even = even->next;        // move even pointer
+            even->next = odd->next;   
+            even = even->next;        
         }
 
-        odd->next = evenHead; // join even list at the end of odd list
+        odd->next = evenHead; 
         return head;
     }
 };
