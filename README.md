@@ -35,6 +35,7 @@
 | [0260-single-number-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DeepGoyani/Leet-Code/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0384-shuffle-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0384-shuffle-an-array) |
 | [0454-4sum-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0454-4sum-ii) |
@@ -593,6 +594,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/DeepGoyani/Leet-Code/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/DeepGoyani/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/DeepGoyani/Leet-Code/tree/master/0881-boats-to-save-people) |
