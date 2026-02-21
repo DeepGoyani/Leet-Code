@@ -333,7 +333,6 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2109-adding-spaces-to-a-string) |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -387,7 +386,6 @@
 | [0206-reverse-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -397,7 +395,6 @@
 | [0232-implement-queue-using-stacks](https://github.com/DeepGoyani/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/DeepGoyani/Leet-Code/tree/master/0735-asteroid-collision) |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
 ## Tree
