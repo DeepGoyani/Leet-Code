@@ -250,6 +250,7 @@
 | [0415-add-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/DeepGoyani/Leet-Code/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/DeepGoyani/Leet-Code/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/DeepGoyani/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0761-special-binary-string) |
@@ -626,6 +627,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/DeepGoyani/Leet-Code/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/DeepGoyani/Leet-Code/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/DeepGoyani/Leet-Code/tree/master/0649-dota2-senate) |
 | [0881-boats-to-save-people](https://github.com/DeepGoyani/Leet-Code/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
@@ -636,6 +638,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/DeepGoyani/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/DeepGoyani/Leet-Code/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/DeepGoyani/Leet-Code/tree/master/0933-number-of-recent-calls) |
 ## Number Theory
 |  |
