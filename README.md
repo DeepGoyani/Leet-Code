@@ -284,6 +284,7 @@
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/DeepGoyani/Leet-Code/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DeepGoyani/Leet-Code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
 | [2937-make-three-strings-equal](https://github.com/DeepGoyani/Leet-Code/tree/master/2937-make-three-strings-equal) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
@@ -393,6 +394,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/DeepGoyani/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/DeepGoyani/Leet-Code/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
 ## Tree
 |  |
@@ -583,6 +585,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/DeepGoyani/Leet-Code/tree/master/3271-hash-divided-string) |
