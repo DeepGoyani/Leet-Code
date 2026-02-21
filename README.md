@@ -92,6 +92,7 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/DeepGoyani/Leet-Code/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
@@ -157,6 +158,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/DeepGoyani/Leet-Code/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
+| [2352-equal-row-and-column-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/DeepGoyani/Leet-Code/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
 | [2670-find-the-distinct-difference-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2670-find-the-distinct-difference-array) |
@@ -572,6 +574,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2352-equal-row-and-column-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/2352-equal-row-and-column-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/DeepGoyani/Leet-Code/tree/master/3271-hash-divided-string) |
@@ -597,6 +600,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/DeepGoyani/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2352-equal-row-and-column-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/2352-equal-row-and-column-pairs) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/DeepGoyani/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Database
 |  |
