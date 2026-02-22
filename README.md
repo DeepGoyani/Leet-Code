@@ -416,6 +416,7 @@
 | [0872-leaf-similar-trees](https://github.com/DeepGoyani/Leet-Code/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -429,6 +430,7 @@
 | [0872-leaf-similar-trees](https://github.com/DeepGoyani/Leet-Code/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -444,6 +446,7 @@
 | [0872-leaf-similar-trees](https://github.com/DeepGoyani/Leet-Code/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -453,6 +456,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
