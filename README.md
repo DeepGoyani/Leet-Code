@@ -58,6 +58,7 @@
 | [0905-sort-array-by-parity](https://github.com/DeepGoyani/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/DeepGoyani/Leet-Code/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/DeepGoyani/Leet-Code/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepGoyani/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -473,6 +474,7 @@
 | [0399-evaluate-division](https://github.com/DeepGoyani/Leet-Code/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DeepGoyani/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/DeepGoyani/Leet-Code/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/DeepGoyani/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DeepGoyani/Leet-Code/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -653,6 +655,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/DeepGoyani/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/DeepGoyani/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
