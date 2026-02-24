@@ -96,7 +96,6 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
-| [2300-successful-pairs-of-spells-and-potions](https://github.com/DeepGoyani/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/DeepGoyani/Leet-Code/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
@@ -346,7 +345,6 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
-| [2300-successful-pairs-of-spells-and-potions](https://github.com/DeepGoyani/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/DeepGoyani/Leet-Code/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -370,7 +368,6 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
-| [2300-successful-pairs-of-spells-and-potions](https://github.com/DeepGoyani/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -553,7 +550,6 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeepGoyani/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeepGoyani/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
-| [2300-successful-pairs-of-spells-and-potions](https://github.com/DeepGoyani/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
 | [2542-maximum-subsequence-score](https://github.com/DeepGoyani/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
