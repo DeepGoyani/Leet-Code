@@ -52,6 +52,7 @@
 | [0724-find-pivot-index](https://github.com/DeepGoyani/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/DeepGoyani/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/DeepGoyani/Leet-Code/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/DeepGoyani/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/DeepGoyani/Leet-Code/tree/master/0881-boats-to-save-people) |
@@ -387,6 +388,7 @@
 | [0152-maximum-product-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/DeepGoyani/Leet-Code/tree/master/0799-champagne-tower) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeepGoyani/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
