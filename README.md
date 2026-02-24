@@ -99,6 +99,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/DeepGoyani/Leet-Code/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/DeepGoyani/Leet-Code/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/DeepGoyani/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DeepGoyani/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
@@ -344,6 +345,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/DeepGoyani/Leet-Code/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -602,6 +604,7 @@
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DeepGoyani/Leet-Code/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/DeepGoyani/Leet-Code/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/DeepGoyani/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DeepGoyani/Leet-Code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -644,6 +647,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/DeepGoyani/Leet-Code/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/DeepGoyani/Leet-Code/tree/master/3271-hash-divided-string) |
