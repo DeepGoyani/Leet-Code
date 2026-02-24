@@ -195,6 +195,7 @@
 | [0012-integer-to-roman](https://github.com/DeepGoyani/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeepGoyani/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DeepGoyani/Leet-Code/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/DeepGoyani/Leet-Code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DeepGoyani/Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DeepGoyani/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DeepGoyani/Leet-Code/tree/master/0069-sqrtx) |
@@ -383,6 +384,7 @@
 | [0005-longest-palindromic-substring](https://github.com/DeepGoyani/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/DeepGoyani/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DeepGoyani/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepGoyani/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -788,4 +790,8 @@
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/DeepGoyani/Leet-Code/tree/master/2336-smallest-number-in-infinite-set) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DeepGoyani/Leet-Code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
