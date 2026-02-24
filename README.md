@@ -209,6 +209,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeepGoyani/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/DeepGoyani/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeepGoyani/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -388,12 +389,14 @@
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
 | [0799-champagne-tower](https://github.com/DeepGoyani/Leet-Code/tree/master/0799-champagne-tower) |
+| [1137-n-th-tribonacci-number](https://github.com/DeepGoyani/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeepGoyani/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/DeepGoyani/Leet-Code/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
 |  |
 | ------- |
