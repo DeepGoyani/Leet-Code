@@ -540,7 +540,6 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeepGoyani/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/DeepGoyani/Leet-Code/tree/master/0868-binary-gap) |
-| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/DeepGoyani/Leet-Code/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeepGoyani/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
