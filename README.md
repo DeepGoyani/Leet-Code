@@ -50,6 +50,7 @@
 | [0605-can-place-flowers](https://github.com/DeepGoyani/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepGoyani/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/DeepGoyani/Leet-Code/tree/master/0645-set-mismatch) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DeepGoyani/Leet-Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/DeepGoyani/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/DeepGoyani/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -394,6 +395,7 @@
 | [0198-house-robber](https://github.com/DeepGoyani/Leet-Code/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DeepGoyani/Leet-Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/DeepGoyani/Leet-Code/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/1143-longest-common-subsequence) |
@@ -710,6 +712,7 @@
 | [0561-array-partition](https://github.com/DeepGoyani/Leet-Code/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/DeepGoyani/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/DeepGoyani/Leet-Code/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DeepGoyani/Leet-Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/DeepGoyani/Leet-Code/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
