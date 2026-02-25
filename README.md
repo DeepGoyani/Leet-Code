@@ -396,6 +396,7 @@
 | [0152-maximum-product-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DeepGoyani/Leet-Code/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DeepGoyani/Leet-Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
@@ -532,6 +533,7 @@
 | [0190-reverse-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/DeepGoyani/Leet-Code/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/DeepGoyani/Leet-Code/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/DeepGoyani/Leet-Code/tree/master/0645-set-mismatch) |
