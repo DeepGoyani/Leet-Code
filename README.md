@@ -67,6 +67,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepGoyani/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
+| [1268-search-suggestions-system](https://github.com/DeepGoyani/Leet-Code/tree/master/1268-search-suggestions-system) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -283,6 +284,7 @@
 | [1143-longest-common-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
+| [1268-search-suggestions-system](https://github.com/DeepGoyani/Leet-Code/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeepGoyani/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1528-shuffle-string) |
@@ -323,6 +325,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DeepGoyani/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/DeepGoyani/Leet-Code/tree/master/1268-search-suggestions-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -380,6 +383,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/DeepGoyani/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepGoyani/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/DeepGoyani/Leet-Code/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -567,6 +571,7 @@
 | [0881-boats-to-save-people](https://github.com/DeepGoyani/Leet-Code/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/DeepGoyani/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1268-search-suggestions-system](https://github.com/DeepGoyani/Leet-Code/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -631,6 +636,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1268-search-suggestions-system](https://github.com/DeepGoyani/Leet-Code/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DeepGoyani/Leet-Code/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/DeepGoyani/Leet-Code/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/DeepGoyani/Leet-Code/tree/master/2542-maximum-subsequence-score) |
