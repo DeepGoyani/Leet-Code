@@ -439,6 +439,7 @@
 | [0394-decode-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/DeepGoyani/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DeepGoyani/Leet-Code/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/DeepGoyani/Leet-Code/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
@@ -626,6 +627,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/DeepGoyani/Leet-Code/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/DeepGoyani/Leet-Code/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -660,6 +662,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/DeepGoyani/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0384-shuffle-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0384-shuffle-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/DeepGoyani/Leet-Code/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/DeepGoyani/Leet-Code/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DeepGoyani/Leet-Code/tree/master/2336-smallest-number-in-infinite-set) |
 ## Binary Search Tree
@@ -672,6 +675,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/DeepGoyani/Leet-Code/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/DeepGoyani/Leet-Code/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
