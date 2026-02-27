@@ -19,6 +19,7 @@
 | [0035-search-insert-position](https://github.com/DeepGoyani/Leet-Code/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/DeepGoyani/Leet-Code/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DeepGoyani/Leet-Code/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -398,6 +399,7 @@
 | [0005-longest-palindromic-substring](https://github.com/DeepGoyani/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/DeepGoyani/Leet-Code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DeepGoyani/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DeepGoyani/Leet-Code/tree/master/0072-edit-distance) |
@@ -734,6 +736,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/DeepGoyani/Leet-Code/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/DeepGoyani/Leet-Code/tree/master/0561-array-partition) |
