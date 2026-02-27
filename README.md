@@ -37,6 +37,7 @@
 | [0238-product-of-array-except-self](https://github.com/DeepGoyani/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/DeepGoyani/Leet-Code/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/DeepGoyani/Leet-Code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -571,6 +572,7 @@
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/DeepGoyani/Leet-Code/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/DeepGoyani/Leet-Code/tree/master/0561-array-partition) |
@@ -785,6 +787,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/DeepGoyani/Leet-Code/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/DeepGoyani/Leet-Code/tree/master/0561-array-partition) |
 ## Randomized
 |  |
