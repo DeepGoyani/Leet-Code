@@ -25,6 +25,7 @@
 | [0088-merge-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DeepGoyani/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepGoyani/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/DeepGoyani/Leet-Code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0162-find-peak-element) |
@@ -743,6 +744,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/DeepGoyani/Leet-Code/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/DeepGoyani/Leet-Code/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/DeepGoyani/Leet-Code/tree/master/0561-array-partition) |
