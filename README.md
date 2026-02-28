@@ -231,6 +231,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/DeepGoyani/Leet-Code/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/DeepGoyani/Leet-Code/tree/master/1518-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/DeepGoyani/Leet-Code/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DeepGoyani/Leet-Code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
@@ -565,6 +566,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeepGoyani/Leet-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2032-two-out-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -699,6 +701,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/DeepGoyani/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeepGoyani/Leet-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/DeepGoyani/Leet-Code/tree/master/1518-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/DeepGoyani/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2109-adding-spaces-to-a-string) |
