@@ -17,6 +17,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepGoyani/Leet-Code/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/DeepGoyani/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DeepGoyani/Leet-Code/tree/master/0055-jump-game) |
@@ -152,6 +153,7 @@
 | [0013-roman-to-integer](https://github.com/DeepGoyani/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DeepGoyani/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/DeepGoyani/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/DeepGoyani/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/DeepGoyani/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
@@ -753,6 +755,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DeepGoyani/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/DeepGoyani/Leet-Code/tree/master/0289-game-of-life) |
 | [0994-rotting-oranges](https://github.com/DeepGoyani/Leet-Code/tree/master/0994-rotting-oranges) |
