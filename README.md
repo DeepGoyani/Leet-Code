@@ -30,6 +30,7 @@
 | [0088-merge-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DeepGoyani/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepGoyani/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/DeepGoyani/Leet-Code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0152-maximum-product-subarray) |
@@ -159,6 +160,7 @@
 | [0036-valid-sudoku](https://github.com/DeepGoyani/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/DeepGoyani/Leet-Code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/DeepGoyani/Leet-Code/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/DeepGoyani/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
@@ -884,6 +886,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/DeepGoyani/Leet-Code/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DeepGoyani/Leet-Code/tree/master/0547-number-of-provinces) |
 ## Ordered Set
