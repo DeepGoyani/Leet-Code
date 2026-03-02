@@ -19,6 +19,7 @@
 | [0035-search-insert-position](https://github.com/DeepGoyani/Leet-Code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DeepGoyani/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/DeepGoyani/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DeepGoyani/Leet-Code/tree/master/0055-jump-game) |
@@ -155,6 +156,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DeepGoyani/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/DeepGoyani/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/DeepGoyani/Leet-Code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/DeepGoyani/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/DeepGoyani/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
@@ -279,6 +281,7 @@
 | [0020-valid-parentheses](https://github.com/DeepGoyani/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DeepGoyani/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DeepGoyani/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/DeepGoyani/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DeepGoyani/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DeepGoyani/Leet-Code/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DeepGoyani/Leet-Code/tree/master/0068-text-justification) |
@@ -601,6 +604,7 @@
 | ------- |
 | [0015-3sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/DeepGoyani/Leet-Code/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DeepGoyani/Leet-Code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
