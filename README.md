@@ -327,6 +327,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeepGoyani/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1528-shuffle-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DeepGoyani/Leet-Code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/DeepGoyani/Leet-Code/tree/master/1678-goal-parser-interpretation) |
@@ -571,6 +572,7 @@
 | [0206-reverse-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0394-decode-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -743,6 +745,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/DeepGoyani/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeepGoyani/Leet-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/DeepGoyani/Leet-Code/tree/master/1518-water-bottles) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/DeepGoyani/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1929-concatenation-of-array) |
