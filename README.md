@@ -233,6 +233,7 @@
 | [0070-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/DeepGoyani/Leet-Code/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
@@ -298,6 +299,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/DeepGoyani/Leet-Code/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/DeepGoyani/Leet-Code/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/DeepGoyani/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -481,6 +483,7 @@
 | [0042-trapping-rain-water](https://github.com/DeepGoyani/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepGoyani/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/DeepGoyani/Leet-Code/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/DeepGoyani/Leet-Code/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/DeepGoyani/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/DeepGoyani/Leet-Code/tree/master/0735-asteroid-collision) |
@@ -571,6 +574,7 @@
 | [0002-add-two-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DeepGoyani/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/DeepGoyani/Leet-Code/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
