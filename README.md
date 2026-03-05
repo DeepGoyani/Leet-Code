@@ -505,6 +505,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepGoyani/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/DeepGoyani/Leet-Code/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/DeepGoyani/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/DeepGoyani/Leet-Code/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/DeepGoyani/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0394-decode-string) |
@@ -531,6 +532,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/DeepGoyani/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0437-path-sum-iii) |
@@ -585,6 +587,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/DeepGoyani/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0437-path-sum-iii) |
@@ -768,6 +771,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DeepGoyani/Leet-Code/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/DeepGoyani/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/DeepGoyani/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DeepGoyani/Leet-Code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -779,6 +783,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/DeepGoyani/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/DeepGoyani/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -965,4 +970,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DeepGoyani/Leet-Code/tree/master/0148-sort-list) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/DeepGoyani/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
