@@ -434,6 +434,7 @@
 | [0162-find-peak-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/DeepGoyani/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/DeepGoyani/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
@@ -533,6 +534,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/DeepGoyani/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/DeepGoyani/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0437-path-sum-iii) |
@@ -588,6 +590,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/DeepGoyani/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/DeepGoyani/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0437-path-sum-iii) |
@@ -648,6 +651,7 @@
 | [0067-add-binary](https://github.com/DeepGoyani/Leet-Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/DeepGoyani/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0338-counting-bits) |
