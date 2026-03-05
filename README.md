@@ -460,6 +460,7 @@
 | [0072-edit-distance](https://github.com/DeepGoyani/Leet-Code/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/DeepGoyani/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepGoyani/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DeepGoyani/Leet-Code/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
@@ -528,6 +529,7 @@
 | [0112-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -552,6 +554,7 @@
 | [0112-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -580,6 +583,7 @@
 | [0112-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
