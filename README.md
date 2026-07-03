@@ -143,6 +143,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DeepGoyani/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/DeepGoyani/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeepGoyani/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -630,6 +631,7 @@
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DeepGoyani/Leet-Code/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DeepGoyani/Leet-Code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -776,6 +778,7 @@
 | [2542-maximum-subsequence-score](https://github.com/DeepGoyani/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DeepGoyani/Leet-Code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
 |  |
@@ -869,6 +872,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/DeepGoyani/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -917,11 +921,13 @@
 | [0841-keys-and-rooms](https://github.com/DeepGoyani/Leet-Code/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/DeepGoyani/Leet-Code/tree/master/0997-find-the-town-judge) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DeepGoyani/Leet-Code/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DeepGoyani/Leet-Code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/DeepGoyani/Leet-Code/tree/master/0399-evaluate-division) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DeepGoyani/Leet-Code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Interactive
 |  |
