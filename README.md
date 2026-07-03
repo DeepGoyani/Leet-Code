@@ -151,6 +151,7 @@
 | [3467-transform-array-by-parity](https://github.com/DeepGoyani/Leet-Code/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/DeepGoyani/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
+| [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DeepGoyani/Leet-Code/tree/master/3634-minimum-removals-to-balance-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/DeepGoyani/Leet-Code/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/DeepGoyani/Leet-Code/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -457,6 +458,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DeepGoyani/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -482,6 +484,7 @@
 | [1143-longest-common-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeepGoyani/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
@@ -779,6 +782,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DeepGoyani/Leet-Code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Quickselect
 |  |
@@ -922,12 +926,14 @@
 | [0997-find-the-town-judge](https://github.com/DeepGoyani/Leet-Code/tree/master/0997-find-the-town-judge) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DeepGoyani/Leet-Code/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DeepGoyani/Leet-Code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/DeepGoyani/Leet-Code/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DeepGoyani/Leet-Code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Interactive
 |  |
@@ -997,4 +1003,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/DeepGoyani/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
