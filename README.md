@@ -149,6 +149,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeepGoyani/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/DeepGoyani/Leet-Code/tree/master/3467-transform-array-by-parity) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/DeepGoyani/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
@@ -221,6 +222,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeepGoyani/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeepGoyani/Leet-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/DeepGoyani/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
@@ -458,6 +460,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DeepGoyani/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -926,6 +929,7 @@
 | [0997-find-the-town-judge](https://github.com/DeepGoyani/Leet-Code/tree/master/0997-find-the-town-judge) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DeepGoyani/Leet-Code/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DeepGoyani/Leet-Code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -987,6 +991,7 @@
 | [0399-evaluate-division](https://github.com/DeepGoyani/Leet-Code/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DeepGoyani/Leet-Code/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Ordered Set
 |  |
 | ------- |
