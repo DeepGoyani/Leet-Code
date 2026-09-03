@@ -163,6 +163,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/DeepGoyani/Leet-Code/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/DeepGoyani/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
