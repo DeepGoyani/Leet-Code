@@ -196,6 +196,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DeepGoyani/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/DeepGoyani/Leet-Code/tree/master/0645-set-mismatch) |
+| [0770-basic-calculator-iv](https://github.com/DeepGoyani/Leet-Code/tree/master/0770-basic-calculator-iv) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/DeepGoyani/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/DeepGoyani/Leet-Code/tree/master/0997-find-the-town-judge) |
@@ -264,6 +265,7 @@
 | [0415-add-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeepGoyani/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0770-basic-calculator-iv](https://github.com/DeepGoyani/Leet-Code/tree/master/0770-basic-calculator-iv) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
@@ -340,6 +342,7 @@
 | [0657-robot-return-to-origin](https://github.com/DeepGoyani/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0761-special-binary-string) |
+| [0770-basic-calculator-iv](https://github.com/DeepGoyani/Leet-Code/tree/master/0770-basic-calculator-iv) |
 | [0796-rotate-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/DeepGoyani/Leet-Code/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -539,6 +542,7 @@
 | [0394-decode-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/DeepGoyani/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DeepGoyani/Leet-Code/tree/master/0739-daily-temperatures) |
+| [0770-basic-calculator-iv](https://github.com/DeepGoyani/Leet-Code/tree/master/0770-basic-calculator-iv) |
 | [0901-online-stock-span](https://github.com/DeepGoyani/Leet-Code/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
@@ -663,6 +667,7 @@
 | [0224-basic-calculator](https://github.com/DeepGoyani/Leet-Code/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0394-decode-string) |
+| [0770-basic-calculator-iv](https://github.com/DeepGoyani/Leet-Code/tree/master/0770-basic-calculator-iv) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
 |  |
