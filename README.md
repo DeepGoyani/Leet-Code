@@ -328,6 +328,7 @@
 | [0076-minimum-window-substring](https://github.com/DeepGoyani/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/DeepGoyani/Leet-Code/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/DeepGoyani/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/DeepGoyani/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/DeepGoyani/Leet-Code/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
@@ -498,6 +499,7 @@
 | [0072-edit-distance](https://github.com/DeepGoyani/Leet-Code/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/DeepGoyani/Leet-Code/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/DeepGoyani/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/DeepGoyani/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepGoyani/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
