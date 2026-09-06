@@ -110,6 +110,7 @@
 | [1732-find-the-highest-altitude](https://github.com/DeepGoyani/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DeepGoyani/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DeepGoyani/Leet-Code/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/DeepGoyani/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DeepGoyani/Leet-Code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -281,6 +282,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DeepGoyani/Leet-Code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/DeepGoyani/Leet-Code/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/DeepGoyani/Leet-Code/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/DeepGoyani/Leet-Code/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/DeepGoyani/Leet-Code/tree/master/2119-a-number-after-a-double-reversal) |
@@ -514,6 +516,7 @@
 | [1143-longest-common-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeepGoyani/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
 | [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
@@ -807,6 +810,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DeepGoyani/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/DeepGoyani/Leet-Code/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/DeepGoyani/Leet-Code/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/DeepGoyani/Leet-Code/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/DeepGoyani/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepGoyani/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1075,4 +1079,16 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/DeepGoyani/Leet-Code/tree/master/0127-word-ladder) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
