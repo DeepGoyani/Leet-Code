@@ -1035,6 +1035,7 @@
 | [0022-generate-parentheses](https://github.com/DeepGoyani/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/DeepGoyani/Leet-Code/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/DeepGoyani/Leet-Code/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0216-combination-sum-iii) |
@@ -1104,4 +1105,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
