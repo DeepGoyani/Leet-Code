@@ -31,6 +31,7 @@
 | [0066-plus-one](https://github.com/DeepGoyani/Leet-Code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/DeepGoyani/Leet-Code/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DeepGoyani/Leet-Code/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DeepGoyani/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -332,6 +333,7 @@
 | [0068-text-justification](https://github.com/DeepGoyani/Leet-Code/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/DeepGoyani/Leet-Code/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DeepGoyani/Leet-Code/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/DeepGoyani/Leet-Code/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/DeepGoyani/Leet-Code/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/DeepGoyani/Leet-Code/tree/master/0115-distinct-subsequences) |
@@ -605,6 +607,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DeepGoyani/Leet-Code/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepGoyani/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0100-same-tree) |
@@ -924,6 +927,7 @@
 | [0048-rotate-image](https://github.com/DeepGoyani/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DeepGoyani/Leet-Code/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/DeepGoyani/Leet-Code/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/DeepGoyani/Leet-Code/tree/master/0909-snakes-and-ladders) |
@@ -1037,6 +1041,7 @@
 | [0046-permutations](https://github.com/DeepGoyani/Leet-Code/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/DeepGoyani/Leet-Code/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/DeepGoyani/Leet-Code/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/DeepGoyani/Leet-Code/tree/master/0401-binary-watch) |
