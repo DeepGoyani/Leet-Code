@@ -43,6 +43,7 @@
 | [0135-candy](https://github.com/DeepGoyani/Leet-Code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/DeepGoyani/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -193,6 +194,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/DeepGoyani/Leet-Code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DeepGoyani/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/DeepGoyani/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0219-contains-duplicate-ii) |
@@ -266,6 +268,7 @@
 | [0067-add-binary](https://github.com/DeepGoyani/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DeepGoyani/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/DeepGoyani/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/DeepGoyani/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0189-rotate-array) |
@@ -1042,6 +1045,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/DeepGoyani/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/DeepGoyani/Leet-Code/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## String Matching
@@ -1139,4 +1143,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DeepGoyani/Leet-Code/tree/master/0322-coin-change) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/DeepGoyani/Leet-Code/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/DeepGoyani/Leet-Code/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
