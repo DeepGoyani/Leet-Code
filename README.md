@@ -63,6 +63,7 @@
 | [0274-h-index](https://github.com/DeepGoyani/Leet-Code/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/DeepGoyani/Leet-Code/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/DeepGoyani/Leet-Code/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DeepGoyani/Leet-Code/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -494,6 +495,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepGoyani/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/DeepGoyani/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -531,6 +533,7 @@
 | [0152-maximum-product-subarray](https://github.com/DeepGoyani/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DeepGoyani/Leet-Code/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DeepGoyani/Leet-Code/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
@@ -1161,4 +1164,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DeepGoyani/Leet-Code/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
