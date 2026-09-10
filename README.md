@@ -626,6 +626,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeepGoyani/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -655,6 +656,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DeepGoyani/Leet-Code/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeepGoyani/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -687,6 +689,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeepGoyani/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
