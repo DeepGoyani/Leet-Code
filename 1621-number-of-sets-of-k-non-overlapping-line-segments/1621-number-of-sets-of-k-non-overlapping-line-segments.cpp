@@ -1,19 +1,22 @@
+const int MOD = 1000000007;
+
 class Solution {
 public:
-    static const int MOD = 1e9 + 7;
-
     int numberOfSets(int n, int k) {
-        vector<vector<long long>> dp(n, vector<long long>(k + 1));
-        for(int i = 0; i < n; i++) dp[i][0] = 1;
-
-        for(int j = 1; j <= k; j++){
-            long long sum = 0;
-            for(int i = 1; i < n; i++){
-                sum = (sum + dp[i - 1][j - 1]) % MOD;
-                dp[i][j] = (dp[i - 1][j] + sum) % MOD;
+        vector<int> dp(n), prefixSums(n + 1);
+        for (int j = 0; j < n; j++) {
+            dp[j] = 1;
+            prefixSums[j + 1] = (prefixSums[j] + dp[j]) % MOD;
+        }
+        for (int i = 1; i <= k; i++) {
+            dp[0] = 0;
+            for (int j = 1; j < n; j++) {
+                dp[j] = (dp[j - 1] + prefixSums[j]) % MOD;
+            }
+            for (int j = 0; j < n; j++) {
+                prefixSums[j + 1] = (prefixSums[j] + dp[j]) % MOD;
             }
         }
-
-        return dp[n - 1][k];
+        return dp[n - 1];
     }
 };
