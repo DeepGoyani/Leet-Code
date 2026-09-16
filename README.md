@@ -165,6 +165,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepGoyani/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DeepGoyani/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeepGoyani/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/DeepGoyani/Leet-Code/tree/master/3467-transform-array-by-parity) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -517,6 +518,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepGoyani/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DeepGoyani/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -557,6 +559,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeepGoyani/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DeepGoyani/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
@@ -818,6 +821,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/DeepGoyani/Leet-Code/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeepGoyani/Leet-Code/tree/master/3074-apple-redistribution-into-boxes) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DeepGoyani/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/DeepGoyani/Leet-Code/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
