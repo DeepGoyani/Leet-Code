@@ -114,6 +114,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DeepGoyani/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DeepGoyani/Leet-Code/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1470-shuffle-the-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeepGoyani/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DeepGoyani/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/1512-number-of-good-pairs) |
@@ -226,6 +227,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DeepGoyani/Leet-Code/tree/master/1657-determine-if-two-strings-are-close) |
@@ -514,6 +516,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DeepGoyani/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DeepGoyani/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DeepGoyani/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -555,6 +558,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeepGoyani/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeepGoyani/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
@@ -962,6 +966,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/DeepGoyani/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/DeepGoyani/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeepGoyani/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeepGoyani/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeepGoyani/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DeepGoyani/Leet-Code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
