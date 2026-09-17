@@ -74,6 +74,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/DeepGoyani/Leet-Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/DeepGoyani/Leet-Code/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/DeepGoyani/Leet-Code/tree/master/0485-max-consecutive-ones) |
@@ -635,6 +636,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/DeepGoyani/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/DeepGoyani/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
@@ -757,6 +759,7 @@
 | [0169-majority-element](https://github.com/DeepGoyani/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0427-construct-quad-tree) |
 | [0761-special-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0761-special-binary-string) |
 ## Bit Manipulation
 |  |
@@ -986,6 +989,7 @@
 | [0079-word-search](https://github.com/DeepGoyani/Leet-Code/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/DeepGoyani/Leet-Code/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0427-construct-quad-tree) |
 | [0835-image-overlap](https://github.com/DeepGoyani/Leet-Code/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/DeepGoyani/Leet-Code/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/DeepGoyani/Leet-Code/tree/master/0994-rotting-oranges) |
