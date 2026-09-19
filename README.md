@@ -301,6 +301,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeepGoyani/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/DeepGoyani/Leet-Code/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/DeepGoyani/Leet-Code/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/DeepGoyani/Leet-Code/tree/master/1518-water-bottles) |
@@ -1098,6 +1099,7 @@
 | [0149-max-points-on-a-line](https://github.com/DeepGoyani/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/DeepGoyani/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DeepGoyani/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/DeepGoyani/Leet-Code/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/DeepGoyani/Leet-Code/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## String Matching
 |  |
