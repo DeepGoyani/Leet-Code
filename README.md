@@ -173,6 +173,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeepGoyani/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/DeepGoyani/Leet-Code/tree/master/3467-transform-array-by-parity) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepGoyani/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/DeepGoyani/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/DeepGoyani/Leet-Code/tree/master/3606-coupon-code-validator) |
 | [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
@@ -330,6 +331,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/DeepGoyani/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeepGoyani/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepGoyani/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/DeepGoyani/Leet-Code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepGoyani/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/DeepGoyani/Leet-Code/tree/master/3663-find-the-least-frequent-digit) |
