@@ -227,6 +227,7 @@
 | [0904-fruit-into-baskets](https://github.com/DeepGoyani/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/DeepGoyani/Leet-Code/tree/master/0997-find-the-town-judge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeepGoyani/Leet-Code/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -395,6 +396,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DeepGoyani/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DeepGoyani/Leet-Code/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1096-brace-expansion-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/DeepGoyani/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -618,6 +620,7 @@
 | [0739-daily-temperatures](https://github.com/DeepGoyani/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0770-basic-calculator-iv](https://github.com/DeepGoyani/Leet-Code/tree/master/0770-basic-calculator-iv) |
 | [0901-online-stock-span](https://github.com/DeepGoyani/Leet-Code/tree/master/0901-online-stock-span) |
+| [1096-brace-expansion-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
@@ -736,6 +739,7 @@
 | [0841-keys-and-rooms](https://github.com/DeepGoyani/Leet-Code/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/DeepGoyani/Leet-Code/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/DeepGoyani/Leet-Code/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DeepGoyani/Leet-Code/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -821,6 +825,7 @@
 | [0881-boats-to-save-people](https://github.com/DeepGoyani/Leet-Code/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/DeepGoyani/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1268-search-suggestions-system](https://github.com/DeepGoyani/Leet-Code/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeepGoyani/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1123,6 +1128,7 @@
 | [0212-word-search-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/DeepGoyani/Leet-Code/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/1096-brace-expansion-ii) |
 ## Rolling Hash
 |  |
 | ------- |
