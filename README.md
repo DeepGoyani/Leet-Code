@@ -410,6 +410,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepGoyani/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/DeepGoyani/Leet-Code/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DeepGoyani/Leet-Code/tree/master/1657-determine-if-two-strings-are-close) |
 | [1678-goal-parser-interpretation](https://github.com/DeepGoyani/Leet-Code/tree/master/1678-goal-parser-interpretation) |
@@ -624,6 +625,7 @@
 | [0770-basic-calculator-iv](https://github.com/DeepGoyani/Leet-Code/tree/master/0770-basic-calculator-iv) |
 | [0901-online-stock-span](https://github.com/DeepGoyani/Leet-Code/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepGoyani/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeepGoyani/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
@@ -1239,4 +1241,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepGoyani/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
