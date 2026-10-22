@@ -189,6 +189,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DeepGoyani/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/DeepGoyani/Leet-Code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
