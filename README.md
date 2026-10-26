@@ -305,6 +305,7 @@
 | [0263-ugly-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/DeepGoyani/Leet-Code/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/DeepGoyani/Leet-Code/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DeepGoyani/Leet-Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0384-shuffle-an-array) |
@@ -590,6 +591,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DeepGoyani/Leet-Code/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/DeepGoyani/Leet-Code/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/DeepGoyani/Leet-Code/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DeepGoyani/Leet-Code/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0338-counting-bits) |
@@ -781,6 +783,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/DeepGoyani/Leet-Code/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/DeepGoyani/Leet-Code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DeepGoyani/Leet-Code/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/DeepGoyani/Leet-Code/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DeepGoyani/Leet-Code/tree/master/0547-number-of-provinces) |
@@ -1276,10 +1279,12 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/DeepGoyani/Leet-Code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DeepGoyani/Leet-Code/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/DeepGoyani/Leet-Code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DeepGoyani/Leet-Code/tree/master/0322-coin-change) |
 ## Euclidean Algorithm
 |  |
