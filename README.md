@@ -686,6 +686,7 @@
 | [0427-construct-quad-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/DeepGoyani/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/DeepGoyani/Leet-Code/tree/master/0872-leaf-similar-trees) |
@@ -715,6 +716,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/DeepGoyani/Leet-Code/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/DeepGoyani/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/DeepGoyani/Leet-Code/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/DeepGoyani/Leet-Code/tree/master/0872-leaf-similar-trees) |
@@ -754,6 +756,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/DeepGoyani/Leet-Code/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/DeepGoyani/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/DeepGoyani/Leet-Code/tree/master/0872-leaf-similar-trees) |
@@ -1310,4 +1313,8 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepGoyani/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DeepGoyani/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
