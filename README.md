@@ -233,6 +233,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DeepGoyani/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/DeepGoyani/Leet-Code/tree/master/0645-set-mismatch) |
+| [0763-partition-labels](https://github.com/DeepGoyani/Leet-Code/tree/master/0763-partition-labels) |
 | [0770-basic-calculator-iv](https://github.com/DeepGoyani/Leet-Code/tree/master/0770-basic-calculator-iv) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/DeepGoyani/Leet-Code/tree/master/0904-fruit-into-baskets) |
@@ -411,6 +412,7 @@
 | [0657-robot-return-to-origin](https://github.com/DeepGoyani/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0761-special-binary-string) |
+| [0763-partition-labels](https://github.com/DeepGoyani/Leet-Code/tree/master/0763-partition-labels) |
 | [0770-basic-calculator-iv](https://github.com/DeepGoyani/Leet-Code/tree/master/0770-basic-calculator-iv) |
 | [0796-rotate-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/DeepGoyani/Leet-Code/tree/master/0821-shortest-distance-to-a-character) |
@@ -510,6 +512,7 @@
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/DeepGoyani/Leet-Code/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/DeepGoyani/Leet-Code/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/DeepGoyani/Leet-Code/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/DeepGoyani/Leet-Code/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/DeepGoyani/Leet-Code/tree/master/0905-sort-array-by-parity) |
@@ -1104,6 +1107,7 @@
 | [0605-can-place-flowers](https://github.com/DeepGoyani/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/DeepGoyani/Leet-Code/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DeepGoyani/Leet-Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/DeepGoyani/Leet-Code/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/DeepGoyani/Leet-Code/tree/master/0881-boats-to-save-people) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DeepGoyani/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
