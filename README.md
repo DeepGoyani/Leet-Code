@@ -79,6 +79,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/DeepGoyani/Leet-Code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/DeepGoyani/Leet-Code/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [0427-construct-quad-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DeepGoyani/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0454-4sum-ii) |
@@ -596,6 +597,7 @@
 | [0322-coin-change](https://github.com/DeepGoyani/Leet-Code/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/DeepGoyani/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/DeepGoyani/Leet-Code/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DeepGoyani/Leet-Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/DeepGoyani/Leet-Code/tree/master/0799-champagne-tower) |
@@ -1281,6 +1283,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/DeepGoyani/Leet-Code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DeepGoyani/Leet-Code/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1326,4 +1329,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
