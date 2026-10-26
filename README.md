@@ -294,6 +294,7 @@
 | [0069-sqrtx](https://github.com/DeepGoyani/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DeepGoyani/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/DeepGoyani/Leet-Code/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/DeepGoyani/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/DeepGoyani/Leet-Code/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/DeepGoyani/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
@@ -571,6 +572,7 @@
 | [0072-edit-distance](https://github.com/DeepGoyani/Leet-Code/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/DeepGoyani/Leet-Code/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/DeepGoyani/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/DeepGoyani/Leet-Code/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/DeepGoyani/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/DeepGoyani/Leet-Code/tree/master/0118-pascals-triangle) |
@@ -656,6 +658,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepGoyani/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/DeepGoyani/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0101-symmetric-tree) |
@@ -723,6 +726,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepGoyani/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/DeepGoyani/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0101-symmetric-tree) |
@@ -973,6 +977,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/DeepGoyani/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepGoyani/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/DeepGoyani/Leet-Code/tree/master/0173-binary-search-tree-iterator) |
