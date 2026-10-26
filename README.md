@@ -35,6 +35,7 @@
 | [0066-plus-one](https://github.com/DeepGoyani/Leet-Code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/DeepGoyani/Leet-Code/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/DeepGoyani/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/DeepGoyani/Leet-Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DeepGoyani/Leet-Code/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DeepGoyani/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -821,6 +822,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/DeepGoyani/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DeepGoyani/Leet-Code/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/DeepGoyani/Leet-Code/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/DeepGoyani/Leet-Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/DeepGoyani/Leet-Code/tree/master/0136-single-number) |
@@ -1178,6 +1180,7 @@
 | [0051-n-queens](https://github.com/DeepGoyani/Leet-Code/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/DeepGoyani/Leet-Code/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/DeepGoyani/Leet-Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DeepGoyani/Leet-Code/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/DeepGoyani/Leet-Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/DeepGoyani/Leet-Code/tree/master/0090-subsets-ii) |
