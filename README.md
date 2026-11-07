@@ -137,6 +137,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/DeepGoyani/Leet-Code/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/DeepGoyani/Leet-Code/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/DeepGoyani/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DeepGoyani/Leet-Code/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/DeepGoyani/Leet-Code/tree/master/1929-concatenation-of-array) |
@@ -973,6 +974,7 @@
 | [0502-ipo](https://github.com/DeepGoyani/Leet-Code/tree/master/0502-ipo) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DeepGoyani/Leet-Code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1268-search-suggestions-system](https://github.com/DeepGoyani/Leet-Code/tree/master/1268-search-suggestions-system) |
+| [1882-process-tasks-using-servers](https://github.com/DeepGoyani/Leet-Code/tree/master/1882-process-tasks-using-servers) |
 | [2336-smallest-number-in-infinite-set](https://github.com/DeepGoyani/Leet-Code/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/DeepGoyani/Leet-Code/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/DeepGoyani/Leet-Code/tree/master/2542-maximum-subsequence-score) |
