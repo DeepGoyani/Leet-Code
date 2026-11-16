@@ -458,6 +458,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DeepGoyani/Leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/DeepGoyani/Leet-Code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/DeepGoyani/Leet-Code/tree/master/2129-capitalize-the-title) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/DeepGoyani/Leet-Code/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeepGoyani/Leet-Code/tree/master/2351-first-letter-to-appear-twice) |
@@ -1038,6 +1039,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepGoyani/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/DeepGoyani/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/DeepGoyani/Leet-Code/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/DeepGoyani/Leet-Code/tree/master/2462-total-cost-to-hire-k-workers) |
