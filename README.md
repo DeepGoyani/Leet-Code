@@ -468,6 +468,7 @@
 | [2418-sort-the-people](https://github.com/DeepGoyani/Leet-Code/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DeepGoyani/Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DeepGoyani/Leet-Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2937-make-three-strings-equal](https://github.com/DeepGoyani/Leet-Code/tree/master/2937-make-three-strings-equal) |
 | [3174-clear-digits](https://github.com/DeepGoyani/Leet-Code/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/DeepGoyani/Leet-Code/tree/master/3271-hash-divided-string) |
@@ -536,6 +537,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/DeepGoyani/Leet-Code/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeepGoyani/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DeepGoyani/Leet-Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
@@ -617,6 +619,7 @@
 | [1872-stone-game-viii](https://github.com/DeepGoyani/Leet-Code/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DeepGoyani/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeepGoyani/Leet-Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DeepGoyani/Leet-Code/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DeepGoyani/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DeepGoyani/Leet-Code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/DeepGoyani/Leet-Code/tree/master/3620-network-recovery-pathways) |
